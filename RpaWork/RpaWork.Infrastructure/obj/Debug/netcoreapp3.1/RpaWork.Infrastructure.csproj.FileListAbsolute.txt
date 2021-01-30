@@ -1,0 +1,15 @@
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\bin\Debug\netcoreapp3.1\RpaWork.Infrastructure.deps.json
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\bin\Debug\netcoreapp3.1\RpaWork.Infrastructure.dll
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\obj\Debug\netcoreapp3.1\RpaWork.Infrastructure.csprojAssemblyReference.cache
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\obj\Debug\netcoreapp3.1\RpaWork.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\obj\Debug\netcoreapp3.1\RpaWork.Infrastructure.AssemblyInfo.cs
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\bin\Debug\netcoreapp3.1\RpaWork.Infrastructure.runtimeconfig.json
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\bin\Debug\netcoreapp3.1\RpaWork.Infrastructure.runtimeconfig.dev.json
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\obj\Debug\netcoreapp3.1\RpaWork.Infrastructure.genruntimeconfig.cache
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\bin\Debug\netcoreapp3.1\RpaWork.Infrastructure.pdb
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\bin\Debug\netcoreapp3.1\RpaWork.Entities.dll
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\bin\Debug\netcoreapp3.1\RpaWork.Entities.pdb
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\obj\Debug\netcoreapp3.1\RpaWork.Infrastructure.csproj.CopyComplete
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\obj\Debug\netcoreapp3.1\RpaWork.Infrastructure.dll
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\obj\Debug\netcoreapp3.1\RpaWork.Infrastructure.pdb
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Infrastructure\obj\Debug\netcoreapp3.1\RpaWork.Infrastructure.csproj.CoreCompileInputs.cache

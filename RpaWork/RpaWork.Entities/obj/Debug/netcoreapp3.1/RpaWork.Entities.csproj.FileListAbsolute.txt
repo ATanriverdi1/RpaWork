@@ -1,0 +1,9 @@
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Entities\bin\Debug\netcoreapp3.1\RpaWork.Entities.deps.json
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Entities\bin\Debug\netcoreapp3.1\RpaWork.Entities.dll
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Entities\bin\Debug\netcoreapp3.1\RpaWork.Entities.pdb
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Entities\obj\Debug\netcoreapp3.1\RpaWork.Entities.AssemblyInfoInputs.cache
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Entities\obj\Debug\netcoreapp3.1\RpaWork.Entities.AssemblyInfo.cs
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Entities\obj\Debug\netcoreapp3.1\RpaWork.Entities.csproj.CoreCompileInputs.cache
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Entities\obj\Debug\netcoreapp3.1\RpaWork.Entities.dll
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Entities\obj\Debug\netcoreapp3.1\RpaWork.Entities.pdb
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Entities\obj\Debug\netcoreapp3.1\RpaWork.Entities.csprojAssemblyReference.cache

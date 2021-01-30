@@ -1,0 +1,15 @@
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\bin\Debug\netcoreapp3.1\RpaWork.Identity.deps.json
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\bin\Debug\netcoreapp3.1\RpaWork.Identity.dll
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\obj\Debug\netcoreapp3.1\RpaWork.Identity.AssemblyInfoInputs.cache
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\obj\Debug\netcoreapp3.1\RpaWork.Identity.AssemblyInfo.cs
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\bin\Debug\netcoreapp3.1\RpaWork.Identity.runtimeconfig.json
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\bin\Debug\netcoreapp3.1\RpaWork.Identity.runtimeconfig.dev.json
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\obj\Debug\netcoreapp3.1\RpaWork.Identity.genruntimeconfig.cache
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\bin\Debug\netcoreapp3.1\RpaWork.Identity.pdb
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\obj\Debug\netcoreapp3.1\RpaWork.Identity.csproj.CoreCompileInputs.cache
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\obj\Debug\netcoreapp3.1\RpaWork.Identity.dll
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\obj\Debug\netcoreapp3.1\RpaWork.Identity.pdb
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\bin\Debug\netcoreapp3.1\RpaWork.Entities.dll
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\bin\Debug\netcoreapp3.1\RpaWork.Entities.pdb
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\obj\Debug\netcoreapp3.1\RpaWork.Identity.csproj.CopyComplete
+C:\Users\alihan\source\repos\RpaWork\RpaWork.Identity\obj\Debug\netcoreapp3.1\RpaWork.Identity.csprojAssemblyReference.cache
