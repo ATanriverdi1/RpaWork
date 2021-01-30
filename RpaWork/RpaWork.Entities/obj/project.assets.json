@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj",
+      "projectUniqueName": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj",
       "projectName": "RpaWork.Entities",
-      "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj",
+      "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj",
       "packagesPath": "C:\\Users\\alihan\\.nuget\\packages\\",
-      "outputPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\obj\\",
+      "outputPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

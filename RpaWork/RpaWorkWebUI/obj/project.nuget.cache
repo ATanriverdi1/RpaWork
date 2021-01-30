@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b/poEYLTcppNxgsylcNj/UyCyvxtndJeplDLrWNRBvylp7TZMcXYSN0VSypX1Vy9bHj+Gb6cKoWJrqbScb5IdQ==",
+  "dgSpecHash": "6Wj6jpJSiIXy9NUv4qpG543FGa/IWet6cQ42LVs01lAzgu8tPPHY4WB0HYbu/3W8yVLmqV0Qht7PcSxn0SM0qw==",
   "success": true,
-  "projectFilePath": "D:\\MyOffice\\Project\\RpaWork\\RpaWorkWebUI\\RpaWorkWebUI.csproj",
+  "projectFilePath": "D:\\git\\RpaWork\\RpaWork\\RpaWorkWebUI\\RpaWorkWebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alihan\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\alihan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

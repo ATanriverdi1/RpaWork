@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AundXLiAq1/XoGYPtu11yclf443Pl6pMCRE0cB5ilEh4zPCulQBsHL6MnCv09gK/WQZ1CaCMWs5L1yuKYuFDhg==",
+  "dgSpecHash": "HtfdOvXAqWmtKsOyW1SaRpBtRTH5rx3725WfiiFAEjBhMgOE+Wc/TRPqPcsUQsbGcV315GgbKLOBNnEDKge1EA==",
   "success": true,
-  "projectFilePath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj",
+  "projectFilePath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alihan\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\alihan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

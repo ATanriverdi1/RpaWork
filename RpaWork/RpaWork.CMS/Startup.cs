@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -15,6 +17,9 @@ using RpaWork.Business.Abstract;
 using RpaWork.Business.Concrete;
 using RpaWork.CMS.Helper.Mapping.Abstract;
 using RpaWork.CMS.Helper.Mapping.Concrete;
+using RpaWork.CMS.Models.CategoryDTOs;
+using RpaWork.CMS.Models.ProductDTOs;
+using RpaWork.CMS.Validators;
 using RpaWork.Identity.Data;
 using RpaWork.Identity.Entities;
 using RpaWork.Infrastructure.Abstract;
@@ -43,11 +48,13 @@ namespace RpaWork.CMS
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<IProductService, ProductManager>();
             services.AddTransient<IProductMapper, ProductMapper>();
+            services.AddTransient<IValidator<ProductViewModel>, ProductValidator>();
 
             //Category
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<ICategoryService, CategoryManager>();
             services.AddTransient<ICategoryMapper, CategoryMapper>();
+            services.AddTransient<IValidator<CategoryViewModel>, CategoryValidator>();
 
             //IdentitOptions
             services.Configure<IdentityOptions>(options => {
@@ -92,7 +99,7 @@ namespace RpaWork.CMS
                 };
             });
 
-            services.AddControllersWithViews();
+            services.AddControllersWithViews().AddFluentValidation();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyOffice\\Project\\RpaWork\\RpaWorkWebUI\\RpaWorkWebUI.csproj": {}
+    "D:\\git\\RpaWork\\RpaWork\\RpaWorkWebUI\\RpaWorkWebUI.csproj": {}
   },
   "projects": {
-    "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Business\\RpaWork.Business.csproj": {
+    "D:\\git\\RpaWork\\RpaWork\\RpaWork.Business\\RpaWork.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Business\\RpaWork.Business.csproj",
+        "projectUniqueName": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Business\\RpaWork.Business.csproj",
         "projectName": "RpaWork.Business",
-        "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Business\\RpaWork.Business.csproj",
+        "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Business\\RpaWork.Business.csproj",
         "packagesPath": "C:\\Users\\alihan\\.nuget\\packages\\",
-        "outputPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Business\\obj\\",
+        "outputPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj": {
-                "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj"
+              "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj": {
+                "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj"
               },
-              "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj": {
-                "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj"
+              "D:\\git\\RpaWork\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj": {
+                "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj": {
+    "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj",
+        "projectUniqueName": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj",
         "projectName": "RpaWork.Entities",
-        "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj",
+        "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj",
         "packagesPath": "C:\\Users\\alihan\\.nuget\\packages\\",
-        "outputPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\obj\\",
+        "outputPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,14 +115,14 @@
         }
       }
     },
-    "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Identity\\RpaWork.Identity.csproj": {
+    "D:\\git\\RpaWork\\RpaWork\\RpaWork.Identity\\RpaWork.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Identity\\RpaWork.Identity.csproj",
+        "projectUniqueName": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Identity\\RpaWork.Identity.csproj",
         "projectName": "RpaWork.Identity",
-        "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Identity\\RpaWork.Identity.csproj",
+        "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Identity\\RpaWork.Identity.csproj",
         "packagesPath": "C:\\Users\\alihan\\.nuget\\packages\\",
-        "outputPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Identity\\obj\\",
+        "outputPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,8 +138,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj": {
-                "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj"
+              "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj": {
+                "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj"
               }
             }
           }
@@ -197,14 +197,14 @@
         }
       }
     },
-    "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj": {
+    "D:\\git\\RpaWork\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj",
+        "projectUniqueName": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj",
         "projectName": "RpaWork.Infrastructure",
-        "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj",
+        "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\alihan\\.nuget\\packages\\",
-        "outputPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Infrastructure\\obj\\",
+        "outputPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -220,8 +220,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj": {
-                "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj"
+              "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj": {
+                "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj"
               }
             }
           }
@@ -283,14 +283,14 @@
         }
       }
     },
-    "D:\\MyOffice\\Project\\RpaWork\\RpaWorkWebUI\\RpaWorkWebUI.csproj": {
+    "D:\\git\\RpaWork\\RpaWork\\RpaWorkWebUI\\RpaWorkWebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyOffice\\Project\\RpaWork\\RpaWorkWebUI\\RpaWorkWebUI.csproj",
+        "projectUniqueName": "D:\\git\\RpaWork\\RpaWork\\RpaWorkWebUI\\RpaWorkWebUI.csproj",
         "projectName": "RpaWorkWebUI",
-        "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWorkWebUI\\RpaWorkWebUI.csproj",
+        "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWorkWebUI\\RpaWorkWebUI.csproj",
         "packagesPath": "C:\\Users\\alihan\\.nuget\\packages\\",
-        "outputPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWorkWebUI\\obj\\",
+        "outputPath": "D:\\git\\RpaWork\\RpaWork\\RpaWorkWebUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -306,17 +306,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Business\\RpaWork.Business.csproj": {
-                "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Business\\RpaWork.Business.csproj"
+              "D:\\git\\RpaWork\\RpaWork\\RpaWork.Business\\RpaWork.Business.csproj": {
+                "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Business\\RpaWork.Business.csproj"
               },
-              "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj": {
-                "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj"
+              "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj": {
+                "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Entities\\RpaWork.Entities.csproj"
               },
-              "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Identity\\RpaWork.Identity.csproj": {
-                "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Identity\\RpaWork.Identity.csproj"
+              "D:\\git\\RpaWork\\RpaWork\\RpaWork.Identity\\RpaWork.Identity.csproj": {
+                "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Identity\\RpaWork.Identity.csproj"
               },
-              "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj": {
-                "projectPath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj"
+              "D:\\git\\RpaWork\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj": {
+                "projectPath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Infrastructure\\RpaWork.Infrastructure.csproj"
               }
             }
           }

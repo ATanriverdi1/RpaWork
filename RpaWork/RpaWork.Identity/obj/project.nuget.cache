@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ULmGWuEZXyI6hTqqJPkHjD7z6nO4D0FU+0hlcus+26ImePfEFRbM704jRnF6f0u2kl7CZyU3RmBasYsUKtFHog==",
+  "dgSpecHash": "UKtO2k/WWSvX/1AubkR7/czHPjjaXEI9qxS4rHlbAgKrIOG3EPfkmzY5T7eeeJ7thWWVCjdZySI3khaxzefWhQ==",
   "success": true,
-  "projectFilePath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.Identity\\RpaWork.Identity.csproj",
+  "projectFilePath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.Identity\\RpaWork.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alihan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\alihan\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

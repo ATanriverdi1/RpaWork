@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+S1wHYriOX2QTHPQXSU7KPjaxKMs39/6uVqz+06fj3h/nd2bqWQrqEpiek3xsG5yKIck0GuPWPHzh8jd7E9IFA==",
+  "dgSpecHash": "MIl+Rss/Q8B37u5tdbeFP+E+bKDtfcN9+tAx7CzPjqpowtwtFNwoPy+xSzkLQEFIDORcK84r058A04J5abJ9Ng==",
   "success": true,
-  "projectFilePath": "D:\\MyOffice\\Project\\RpaWork\\RpaWork.CMS\\RpaWork.CMS.csproj",
+  "projectFilePath": "D:\\git\\RpaWork\\RpaWork\\RpaWork.CMS\\RpaWork.CMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alihan\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\alihan\\.nuget\\packages\\fluentvalidation\\9.4.0\\fluentvalidation.9.4.0.nupkg.sha512",
+    "C:\\Users\\alihan\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.4.0\\fluentvalidation.aspnetcore.9.4.0.nupkg.sha512",
+    "C:\\Users\\alihan\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.4.0\\fluentvalidation.dependencyinjectionextensions.9.4.0.nupkg.sha512",
     "C:\\Users\\alihan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\alihan\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\alihan\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
